@@ -140,11 +140,11 @@ Artist: https://www.pixiv.net/en/users/50721540
 
 36:
 Source: https://www.pixiv.net/en/artworks/97223064
-Artist: https://www.pixiv.net/en/artworks/97223064
+Artist: https://www.pixiv.net/en/users/2989366
 
 37:
-Source: https://www.pixiv.net/en/artworks/97223064
-Artist: https://www.pixiv.net/en/artworks/97215422
+Source: https://www.pixiv.net/en/artworks/97215422
+Artist: https://www.pixiv.net/en/users/51853916
 
 38:
 Source: https://www.pixiv.net/en/artworks/97225794
