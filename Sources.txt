@@ -163,8 +163,8 @@ Source: https://www.pixiv.net/en/artworks/97221783
 Artist: https://www.pixiv.net/en/users/78881499
 
 42:
-Source: https://www.pixiv.net/en/artworks/97222126
-Artist: https://www.pixiv.net/en/users/2004574
+Source: https://www.pixiv.net/en/artworks/97380874
+Artist: https://www.pixiv.net/en/users/28246124
 
 43:
 Source: https://www.pixiv.net/en/artworks/97215213
