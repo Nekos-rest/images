@@ -1,3 +1,6 @@
+If you believe any of these links to be incorrect, please create an issue on github.
+Correct crediting is important.
+
 1:
 Source: https://www.pixiv.net/en/artworks/94638266
 Artist: https://www.pixiv.net/en/users/70473638
@@ -273,3 +276,27 @@ Artist: https://www.pixiv.net/en/users/46848649
 69:
 Source: https://www.pixiv.net/en/artworks/97761472
 Artist: https://www.pixiv.net/en/users/60528214
+
+70:
+Source: https://www.pixiv.net/en/artworks/98857537
+Artist: https://www.pixiv.net/en/users/53862745
+
+71:
+Source: https://www.pixiv.net/en/artworks/98699450
+Artist: https://www.pixiv.net/en/users/53862745
+
+72:
+Source: https://www.pixiv.net/en/artworks/98849369
+Artist: https://www.pixiv.net/en/users/817796
+
+73:
+Source: https://www.pixiv.net/en/artworks/98869655
+Artist: https://www.pixiv.net/en/users/67605874
+
+74:
+Source: https://www.pixiv.net/en/artworks/98780217
+Artist: https://www.pixiv.net/en/users/56017669
+
+75:
+Source: https://www.pixiv.net/en/artworks/98834981
+Artist: https://www.pixiv.net/en/users/5772708
